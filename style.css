@@ -1,0 +1,31 @@
+canvas{
+    border: 5px;
+    box-shadow: black;
+    border-radius: 20px;
+    box-shadow:3px 3px 5px 3px black;
+}
+.lambo{
+    box-shadow:3px 3px 5px 3px black;
+    font-size: 20px;
+    margin:5;
+    border-radius: 5px;
+    line-height: 2;
+}
+.benz{
+    font-size: 14;
+    color: black;
+}
+
+.farrari{
+    font-size: 18;
+    margin-top: 10px;
+}
+
+#copyright_footer{
+    background-color: grey;
+    position: fixed;
+    line-height: 3;
+     width: 700;
+    text-align: center;
+    bottom: 0%;
+}
